@@ -1,0 +1,32 @@
+
+nav {
+    text-align: center;
+    font-size: 40px;
+}
+#h1 {
+    color: rgb(170, 14, 14);
+
+}
+.link {
+    font-size: 20px;
+    color: rgb(213, 6, 82);
+}
+article {
+    text-align: center;
+    font-size: 30px;
+}
+.h2{
+    color: purple;
+}
+.p1 {
+    color: aliceblue;
+    font-size: 25px;
+}
+#h3 {
+    color: rgb(98, 140, 14);
+}
+.list {
+    color: aliceblue;
+    list-style-position: inside
+    
+}
